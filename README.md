@@ -2,7 +2,7 @@
 ---
 
 ## Summary
-The project consist on the apploication of modern concepts for building a data warehouse. It is intended for learning and skill building applications. The project will utilize MS SQL Server as the DBM for the data warehouse. DRAW.io for documntaion of diagrams. Git for version control and documentation of the work performed.
+The project consist on the apploication of modern concepts for building a data warehouse. It is intended for learning and skill building applications. The project will utilize MS SQL Server as the DBM for the data warehouse. DRAW.io for documntaion of diagrams. Git for version control and documentation of the work performed. A Star Schema was approached for the Gold Layer based on assumed business requirements. 
 
 ## Architecture
 The project will follow the following architecture:
